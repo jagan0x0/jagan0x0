@@ -53,10 +53,8 @@
 
 ###
 
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<img align="left" src="https://profile-counter.glitch.me/jagan0x0/count.svg?"  />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/jagan0x0/count.svg?"  />
+</div>
 
 ###
